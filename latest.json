@@ -1,7 +1,7 @@
 {
-  "versionName": "0.0.4",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/gemquota/rab-releases/releases/download/v0.0.4/rab-overlay-0.0.4.apk",
-  "sha256": "51914d072610feb9eaa281f4aa5860085298ad5e9db979ed30825fd2d0dd4a70",
-  "releaseNotes": "RAB 0.0.4: true 40% sizing, right-edge vertical tab with full-range movement, 20%-from-top default, persistent panel geometry, expanded console, and clearer installed-version/update status."
+  "versionName": "0.0.5",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/gemquota/rab-releases/releases/download/v0.0.5/rab-overlay-0.0.5.apk",
+  "sha256": "dde6c6ffb866f1afa5fb991d414e990d3e832cc121daef865de3d63823c10973",
+  "releaseNotes": "Unified RAB console interface, improved edge-connected dock tab, full-height tab dragging and position-preserving restore."
 }
