@@ -1,7 +1,7 @@
 {
-  "versionName": "0.0.1",
-  "versionCode": 2,
-  "apkUrl": "https://github.com/gemquota/rab-releases/releases/download/v0.0.1/rab-overlay-0.0.1.apk",
-  "sha256": "26129bd9c3d2eca6c3be0bdcc9250e929abf06eaba1d8903f6d9f4866cb32957",
-  "releaseNotes": "RAB Android overlay release 0.0.1"
+  "versionName": "0.0.2",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/gemquota/rab-releases/releases/download/v0.0.2/rab-overlay-0.0.2.apk",
+  "sha256": "487f9182768fa79d6adbef67c3511f56e8d94ef6d398578449463dad2fe5fcab",
+  "releaseNotes": "RAB Android overlay release 0.0.2"
 }
